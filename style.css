@@ -4,8 +4,7 @@
 body{
    
     color: #224;
-    background:
-      url("bgg.jpg");
+    background:url(bgg.jpg);
     height: 94vh;
     width:95vw;
 }
