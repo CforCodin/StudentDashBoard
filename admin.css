@@ -2,8 +2,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Miniver&family=Mulish:wght@500&family=Pacifico&family=Tilt+Neon&display=swap');
 
 body{
-    background-color: #1f1f47;
-   
+    background:url("bgg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
