@@ -42,8 +42,8 @@
         </div>
     </center>
 
-    <footer>
-        <button onclick="location.href='index.html' id="btn">LOGOUT</button>
+   <footer>
+        <button onclick="location.href='index.html'" id="btn">LOGOUT</button>
     </footer>
 
 </body>
